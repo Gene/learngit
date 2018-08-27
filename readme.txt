@@ -3,4 +3,4 @@ git is a distributed version control system
 git id free software
 test window the GPL
 Git has a mutable index called stage
-change readme.txt
+change readme.txt of files.
